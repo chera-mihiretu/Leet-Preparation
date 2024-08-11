@@ -1,0 +1,5 @@
+# PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+
+## DAY : AUG 11 2024
+    - ### HUB DAILY
+        - [Shifting Letters II](Shifting_Letters_II.py)
