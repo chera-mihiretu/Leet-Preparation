@@ -1,9 +1,16 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
 
-## DAT : AUG 12 2024
+## DATE : AUG 12 2024
+- ## CONTEST
+- [MonkeyType](A_Monkeytype.py), [link](https://codeforces.com/problemset/problem/1607/A)
+- [String Again](B_Strings_again.py), [link](https://codeforces.com/problemset/problem/1689/A)
+- [Games](C_Games.py), [link](https://codeforces.com/problemset/problem/1472/d)
+- [This is War](D_This_is_war.py), [link](https://codeforces.com/problemset/problem/1490/E)
+
 - ## LEETCODE DAILY
 - [Kth Largest Element In The Stream](Kth_Largest_Element_In_The_Stream.py)
-
+- ## HUB DAILY
+- [Merge Two Sorted Lists](Merge_Two_Sorted_Lists.py)
 ## DAY : AUG 11 2024
 - ## HUB DAILY
 - [Shifting Letters II](Shifting_Letters_II.py)
