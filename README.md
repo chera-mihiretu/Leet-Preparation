@@ -1,5 +1,9 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
 
+## DAT : AUG 12 2024
+- ## LEETCODE DAILY
+- [Kth Largest Element In The Stream](Kth_Largest_Element_In_The_Stream.py)
+
 ## DAY : AUG 11 2024
 - ## HUB DAILY
 - [Shifting Letters II](Shifting_Letters_II.py)
