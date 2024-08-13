@@ -1,5 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
 
+## DATE : AUG 13 2024
+- [Permutations I](Permutations_I.py)
 ## DATE : AUG 12 2024
 - ## CONTEST
 - [MonkeyType](A_Monkeytype.py), [link](https://codeforces.com/problemset/problem/1607/A)
