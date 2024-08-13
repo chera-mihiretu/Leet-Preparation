@@ -3,6 +3,9 @@
 ## DATE : AUG 13 2024
 - [Permutations I](Permutations_I.py)
 - [Permutations II](Permutation_II.py)
+- [Sebset I](Subset_I.py)
+- [Subset II](Subset_II.py)
+- [Combinational Sum](Combinational_Sum.py)
 ## DATE : AUG 12 2024
 - ## CONTEST
 - [MonkeyType](A_Monkeytype.py), [link](https://codeforces.com/problemset/problem/1607/A)
