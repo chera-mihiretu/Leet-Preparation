@@ -1,5 +1,8 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
 ## DATE : AUG 15 2024
+- ## HUBDAILY 
+- [Merge The Intervals](Merger_intervals.py)
+- ## LEETDAILY
 - [Lemonade Change](Lemonade_Change.py)
 ## DATE : AUG 14 2024
 - ## LEETDAILY
