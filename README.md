@@ -1,7 +1,9 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
 ## DATE : AUG 15 2024
+- [Minimum Number of Operations to Make Arrays Similar](Minimum_Number_of_Operations_to_Make_Arrays_Similar.py)
 - ## HUBDAILY 
 - [Merge The Intervals](Merger_intervals.py)
+
 - ## LEETDAILY
 - [Lemonade Change](Lemonade_Change.py)
 ## DATE : AUG 14 2024
