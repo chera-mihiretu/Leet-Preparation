@@ -1,4 +1,6 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE : AUG 15 2024
+- [Lemonade Change](Lemonade_Change.py)
 ## DATE : AUG 14 2024
 - ## LEETDAILY
 - [Find K-th Smallest Pair Distance](Find_K-th_Smallest_Pair_Distance.py)
