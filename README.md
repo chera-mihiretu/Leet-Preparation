@@ -1,7 +1,9 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
 ## DATE AUG 16 2024
-- ## LEETDAILY
+- ## HUB DAILY
+- [Orderly Queue](Orderly_Queue.py)
 - [Nested List](Nested_list.py), [Link](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true)
+- ## LEETDAILY
 - [Maximum Distance in Arrays](Maximum_Distance_in_Arrays.pypy)
 ## DATE : AUG 15 2024
 - [Minimum Number of Operations to Make Arrays Similar](Minimum_Number_of_Operations_to_Make_Arrays_Similar.py)
