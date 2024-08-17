@@ -4,4 +4,7 @@ def main(text):
 
 if __name__ == '__main__':
     text = input().strip()
-    print(main(text))
+    result = main(text)
+    with open(result, 'w') as file:
+        file.writelines(['from typing import *'])
+    print(result)
