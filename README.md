@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE AUG 17 2024 
+- ## LEETCODE DAILY
+- [Maximum Number of Points with Cost](Maximum_Number_of_Points_with_Cost.py)
 ## DATE AUG 16 2024
 - ## HUB DAILY
 - [Orderly Queue](Orderly_Queue.py)
