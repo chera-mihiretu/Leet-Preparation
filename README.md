@@ -1,7 +1,9 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
 ## date aug 18 2024
+- [Super Ugly Number](Super_Ugly_Number.py)
 - ## LEETCODE DAILY
 - [Ugly Number](Ugly_Number_II.py)
+
 ## DATE AUG 17 2024 
 - ## LEETCODE DAILY
 - [Maximum Number of Points with Cost](Maximum_Number_of_Points_with_Cost.py)
