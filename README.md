@@ -1,5 +1,8 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
-## date aug 18 2024
+
+## DATE AUG 18 2024
+- [2 Keys Keyboard](2_Keys_Keyboard.py)
+- [Subarray Sums Divisible by K](Subarray_Sums_Divisible_by_K.py)
 - [Super Ugly Number](Super_Ugly_Number.py)
 - ## LEETCODE DAILY
 - [Ugly Number](Ugly_Number_II.py)
