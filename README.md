@@ -1,6 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
 
 ## DATE AUG 18 2024
+- [Set Matrix Zeroes](Set_Matrix_Zeroes.py) 
 - [2 Keys Keyboard](2_Keys_Keyboard.py)
 - [Subarray Sums Divisible by K](Subarray_Sums_Divisible_by_K.py)
 - [Super Ugly Number](Super_Ugly_Number.py)
