@@ -1,9 +1,12 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
 ## DATE AUG 20
-
-## DATE AUG 19 
+- ## DAILY HUB
 - [Maximum XOR for Each Query
 ](Maximum_XOR_for_Each_Query.py)
+
+## DATE AUG 19 
+- ## LEETCODE DAILY
+- [Stone Game II](Stone_Game_II.py)
 ## DATE AUG 18 2024
 - [Set Matrix Zeroes](Set_Matrix_Zeroes.py) 
 - [2 Keys Keyboard](2_Keys_Keyboard.py)
