@@ -3,7 +3,9 @@
 - ## DAILY HUB
 - [Maximum XOR for Each Query
 ](Maximum_XOR_for_Each_Query.py)
-
+## DATE AUG 22
+- ## LEETCODE DAILY
+- [Number Complement](Number_Complement.py)
 ## DATE AUG 19 
 - ## LEETCODE DAILY
 - [Stone Game II](Stone_Game_II.py)
