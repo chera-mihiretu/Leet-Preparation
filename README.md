@@ -1,5 +1,8 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
 ## Date aug 26
+- ## Practice 
+- [https://codeforces.com/contest/2001/problem/A]
+- [Make all equal](A_Make_All_Equal.py)()
 - ## LEETCODE DAILY
 - [N-ary Tree Postorder Traversal](N-ary_Tree_Postorder_Traversal.py)
 ## DATE AUG 25 
