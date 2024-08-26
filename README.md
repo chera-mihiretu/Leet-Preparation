@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## Date aug 26
+- ## LEETCODE DAILY
+- [N-ary Tree Postorder Traversal](N-ary_Tree_Postorder_Traversal.py)
 ## DATE AUG 25 
 - ## LEETDAILY 
 - [Binary Tree Postorder Traversal](Binary_Tree_Postorder_Traversal.py)
