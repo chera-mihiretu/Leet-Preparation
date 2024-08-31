@@ -1,6 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
 ## DATE AUG 39
 - ## PRACTICE
+- [Alternating Group II](Alternating_Group_II.py)
 - [Contain Duplicate II](Contains_Duplicate_II.py)
 
 ## Date aug 26
