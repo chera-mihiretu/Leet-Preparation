@@ -1,4 +1,8 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE AUG 39
+- ## PRACTICE
+- [Contain Duplicate II](Contains_Duplicate_II.py)
+
 ## Date aug 26
 - ## Practice 
 - [https://codeforces.com/contest/2001/problem/A]
