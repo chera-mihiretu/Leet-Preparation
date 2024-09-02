@@ -1,4 +1,10 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+
+## DATE SEP 2
+- ## DAILY LEETCODE 
+- [Find the Student that will replace chalk](Find_the_Student_that_will_replace_chalk.py)
+- ## PRACTICE
+- [Map of Highert Peak](Map_of_Highest_Peak.py)
 ## DATE AUG 39
 - ## PRACTICE
 - [Alternating Group II](Alternating_Group_II.py)
