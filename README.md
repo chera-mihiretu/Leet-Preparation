@@ -3,6 +3,7 @@
 - ## DAILY CHALLENGE 
 - [Sum of Digits of String After Convert](Sum_of_Digits_of_String_After_Convert.py)
 - ## PRACTICE
+- [Maximum Average subarray](Maximum_Average_Subarray.py)
 - [Rotate Image](Rotate_Image.py)
 - [Transpose Matrix](Transpose_Matrix.py)
 - [Invert Binary Tree](Invert_Binary_Tree.py)
