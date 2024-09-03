@@ -1,5 +1,9 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
-
+## DATE SEP 3
+- ## DAILY CHALLENGE 
+- [Sum of Digits of String After Convert](Sum_of_Digits_of_String_After_Convert.py)
+- ## PRACTICE
+- [Invert Binary Tree](Invert_Binary_Tree.py)
 ## DATE SEP 2
 - ## DAILY LEETCODE 
 - [Find the Student that will replace chalk](Find_the_Student_that_will_replace_chalk.py)
