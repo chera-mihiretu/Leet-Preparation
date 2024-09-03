@@ -3,6 +3,7 @@
 - ## DAILY CHALLENGE 
 - [Sum of Digits of String After Convert](Sum_of_Digits_of_String_After_Convert.py)
 - ## PRACTICE
+- [Minimum Size Subarray Sum](Minimum_Size_Subarray_Sum.py)
 - [Maximum Average subarray](Maximum_Average_Subarray.py)
 - [Rotate Image](Rotate_Image.py)
 - [Transpose Matrix](Transpose_Matrix.py)
