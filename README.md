@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE SEP 4
+- ## DAILY CHALLENGE
+- [Walking Robot Sumulation](Walking_Robot_Simulation.py)
 ## DATE SEP 3
 - ## DAILY CHALLENGE 
 - [Sum of Digits of String After Convert](Sum_of_Digits_of_String_After_Convert.py)
