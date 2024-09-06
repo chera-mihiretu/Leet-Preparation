@@ -1,7 +1,12 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
-## DATE SEP 5
+## DATE SEP 6 2024
+- [Delete Nodes From Linked List Present in Array](Delete_Nodes_From_Linked_List_Present_in_Array.py)
+## PRACTICE DP
+- [N-th_Tribonacci_Number](N-th_Tribonacci_Number.py)
+- [Coin Change](Coin_Change.py)
+## DATE SEP 5 2024
 - ## DAILY CHALLENGE
-- []()
+- [Find Missing Observation](Find_Missing_Observative.py)
 ## DATE SEP 4
 - ## DAILY CHALLENGE
 - [Walking Robot Sumulation](Walking_Robot_Simulation.py)
