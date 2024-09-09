@@ -1,4 +1,10 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE SEP 9 2024
+- ## DAILY CHALLENGE
+- [Spiral Matrix IV](Spiral_Matrix_VI.py)
+## DATE SEP 7 2024
+- ## DAILY CHALLENGE
+- [Linked List in Binary Tree]()
 ## DATE SEP 6 2024
 - [Delete Nodes From Linked List Present in Array](Delete_Nodes_From_Linked_List_Present_in_Array.py)
 ## PRACTICE DP
