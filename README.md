@@ -1,5 +1,8 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DAILY SEP 10 2024
+- [Integer Greatest Common Devisor in Linked List](Integer_Greatest_Common_Devisor_in_Linked_List.py) 
 ## DATE SEP 9 2024
+
 - ## DAILY CHALLENGE
 - [Spiral Matrix IV](Spiral_Matrix_VI.py)
 ## DATE SEP 7 2024
