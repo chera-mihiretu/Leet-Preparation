@@ -1,4 +1,6 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DAILY SEP 11 2024
+- ## [Minimum Bit Flips to Convert Number](Minimum_Bit_Flips_to_Convert_Number.py)
 ## DAILY SEP 10 2024
 - [Integer Greatest Common Devisor in Linked List](Integer_Greatest_Common_Devisor_in_Linked_List.py) 
 ## DATE SEP 9 2024
