@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DAILY SEP 13 2024
+- ## DAILY CHALLENGE
+- [XOR Queries of a Subarray](XOR_Queries_of_a_Subarray.py)
 ## DAILY SEP 12 2024
 - ## DAILY CHALLENGE 
 - [Count the Number of Consistence String](Count_the_Number_of_Consistence_String.py)
