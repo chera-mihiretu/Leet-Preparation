@@ -1,5 +1,9 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DAILY SEP 15 
+- ## DAILY LEET CHALLENGE 
+- [Find the Longest Substring Containing Vowels in Even Counts](Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts.py)
 ## DAILY SEP 13 2024
+
 - ## DAILY CHALLENGE
 - [XOR Queries of a Subarray](XOR_Queries_of_a_Subarray.py)
 ## DAILY SEP 12 2024
