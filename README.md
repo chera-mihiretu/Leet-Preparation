@@ -2,6 +2,7 @@
 ## DATE SEP 16 
 - ## DAILY CHALLENGE
 - [Minimum Time Difference](Minimum_Time_Difference.py)
+- [Find Players With Zero or One Losses](Find_Players_With_Zero_or_One_Losses.py)
 ## DATE SEP 15 
 - ## DAILY LEET CHALLENGE 
 - [Find the Longest Substring Containing Vowels in Even Counts](Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts.py)
