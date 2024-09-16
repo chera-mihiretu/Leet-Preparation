@@ -1,18 +1,21 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
-## DAILY SEP 15 
+## DATE SEP 16 
+- ## DAILY CHALLENGE
+- [Minimum Time Difference](Minimum_Time_Difference.py)
+## DATE SEP 15 
 - ## DAILY LEET CHALLENGE 
 - [Find the Longest Substring Containing Vowels in Even Counts](Find_the_Longest_Substring_Containing_Vowels_in_Even_Counts.py)
 ## DAILY SEP 13 2024
 
 - ## DAILY CHALLENGE
 - [XOR Queries of a Subarray](XOR_Queries_of_a_Subarray.py)
-## DAILY SEP 12 2024
+## DATE SEP 12 2024
 - ## DAILY CHALLENGE 
 - [Count the Number of Consistence String](Count_the_Number_of_Consistence_String.py)
 - [Boundary of Binary Tree](Boundary_of_Binary_Tree.py)
 ## DAILY SEP 11 2024
 - ## [Minimum Bit Flips to Convert Number](Minimum_Bit_Flips_to_Convert_Number.py)
-## DAILY SEP 10 2024
+## DATE SEP 10 2024
 - [Integer Greatest Common Devisor in Linked List](Integer_Greatest_Common_Devisor_in_Linked_List.py) 
 ## DATE SEP 9 2024
 
