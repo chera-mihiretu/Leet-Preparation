@@ -1,4 +1,8 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE SEP 17 
+## DAILY CHALLENGE 
+- [Uncommon Words from Two Sentences](Uncommon_Words_from_Two_Sentences.py)
+- [Construct Binary Tree from Preorder and Inorder Traversal](Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py)
 ## DATE SEP 16 
 - ## DAILY CHALLENGE
 - [Minimum Time Difference](Minimum_Time_Difference.py)
