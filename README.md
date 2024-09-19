@@ -1,4 +1,9 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE SEP 19
+- ## DAILY CHALLENGE
+
+- ## DAILY PRACTICE
+- [Serialize and Deserialize Binary Tree](Serialize_and_Deserialize_Binary_Tree.py)
 ## DATE SEP 18
 - ## DAILY CHALLENGE
 - [Large Number](Large_Number.py)
