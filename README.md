@@ -1,4 +1,6 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE SEP 20
+- ## [Shortest Palindrom](Shortest_Palindrome.py)
 ## DATE SEP 19
 - ## DAILY CHALLENGE
 
