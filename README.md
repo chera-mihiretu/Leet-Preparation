@@ -4,6 +4,7 @@
 - [Kth Longest Palindrome](Kth_Longest_Palindrome.py)
 - ## DAILY EPRACTICE
 - [Decode way](Decode_Way.py)
+- [Is The Graph Bipartite](Is_The_Graph_Bipartite.py)
 ## DATE SEP 20
 - ## [Shortest Palindrom](Shortest_Palindrome.py)
 ## DATE SEP 19
