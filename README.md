@@ -1,4 +1,6 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE SEP 23 
+- [Extra Characters in a String](Extra_Character_in_a_String.py)
 ## DATE SEP 22
 - ## DAILY CHALLENGE
 - [Kth Longest Palindrome](Kth_Longest_Palindrome.py)
