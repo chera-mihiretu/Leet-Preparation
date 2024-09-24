@@ -2,6 +2,8 @@
 ## DATE SEP 24 
 - ## DALY CHALLENGE
 - [Find the Length of the Longest Common Prefix](Find_the_Length_of_the_Longest_Common_Prefix.py)
+- ## HUB DAILY
+- [Frequency of the Most Frequent Element](Frequency_of_the_Most_Frequent_Element.py)
 ## DATE SEP 23 
 - [Extra Characters in a String](Extra_Character_in_a_String.py)
 - ## HUB DAILY
