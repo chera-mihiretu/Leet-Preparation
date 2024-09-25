@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE SEP 25
+- ## DAILY CHALLENGE AND ALSO HUB QUESTION
+- [Sum of Prefix Score of Strings](Sum_of_Prefix_Scores_of_Strings.py)
 ## DATE SEP 24 
 - ## DALY CHALLENGE
 - [Find the Length of the Longest Common Prefix](Find_the_Length_of_the_Longest_Common_Prefix.py)
