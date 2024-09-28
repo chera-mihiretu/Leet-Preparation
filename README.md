@@ -2,6 +2,7 @@
 ## DATE SEP 28
 - ## DAILY CHALLENGE
 - [Design Circular Deque](Design_Circular_Deque.py)
+- [Remove Duplicate](Remove_Duplicate.py)
 ## DATE SEP 27
 - ## DAILY CHALLENGE
 - [My Calander II](My_Calander_II.py)
