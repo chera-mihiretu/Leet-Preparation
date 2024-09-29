@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE SEP 29
+- ## DAILY CHALLENGE 
+- I copied this problem [All O One Data Structure](All_O_One_Data_Structure.py)
 ## DATE SEP 28
 - ## DAILY CHALLENGE
 - [Design Circular Deque](Design_Circular_Deque.py)
