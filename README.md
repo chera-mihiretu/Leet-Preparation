@@ -1,4 +1,10 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE OCT 7
+- ## DIALY CHALLANGE
+- [Minimum String Length After Removing Substrings](Minimum_String_Length_After_Removing_Substrings.py)
+## DATE OCT 2
+- ## DAILY CHALLENGE
+- [LRU Cache]()
 ## DATE SEP 29
 - ## DAILY CHALLENGE 
 - I copied this problem [All O One Data Structure](All_O_One_Data_Structure.py)
