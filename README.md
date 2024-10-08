@@ -1,4 +1,6 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE OCT 8 
+- [Stack and Queues](Stack_Ques.py) 
 ## DATE OCT 7
 - ## DIALY CHALLANGE
 - [Minimum String Length After Removing Substrings](Minimum_String_Length_After_Removing_Substrings.py)
