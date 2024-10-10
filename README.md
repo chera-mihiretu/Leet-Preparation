@@ -1,4 +1,8 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE OCT 9
+- [Maximum Width Ramp version 1](Maximum_Width_Ramp_1.py)
+- [Maximum Width Ramp version 2](Maximum_Width_Ramp_2.py)
+- [Maximum Width Ramp version 3](Maximum_Width_Ramp_3.py)
 ## DATE OCT 8 
 - [Stack and Queues](Stack_Ques.py) 
 ## DATE OCT 7
