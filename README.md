@@ -1,7 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
 ## DATE OCT 11
 - [Dijkstra Algorithm](Path_With_Maximum_Probablity.py)
-
+- [Find the City With the smallest Number of Neightbors at a Threshold Distance](Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance.py)
 ## DATE OCT 9
 - [Maximum Width Ramp version 1](Maximum_Width_Ramp_1.py)
 - [Maximum Width Ramp version 2](Maximum_Width_Ramp_2.py)
