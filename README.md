@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE OCT 12
+## DAILY CHALLENGE
+- [Divide Intervals Into Minimum Number of Groups](Divide_Intervals_Into_Minimum_Number_of_Groups.py)
 ## DATE OCT 11
 - [Dijkstra Algorithm](Path_With_Maximum_Probablity.py)
 - [Find the City With the smallest Number of Neightbors at a Threshold Distance](Find_the_City_With_the_Smallest_Number_of_Neighbors_at_a_Threshold_Distance.py)
