@@ -59,3 +59,22 @@ class Solution:
     def returnRemovedValues(self, fromArray, toBeReturned):
         while toBeReturned:
             heappush(fromArray, toBeReturned.pop())
+
+
+# This is after know the heap nth largest element function 
+
+class Solution:
+    def minDifference(self, nums: List[int]) -> int:
+        if len(nums) <= 4:
+            return 0
+
+        # Time Complexity is O(n)
+        # Space Complexity is O(1)
+
+        # We are gonna iterate over only the four elemts from both minimum and smallest
+        four_small = nsmallest(4, nums)
+        four_large = nlargest(4, nums)
+        answer = four_large[0] - four_small[0]
+        for i in range(4):
+            answer = min(answer, four_large[i] - four_small[3 - i])
+        return answer
