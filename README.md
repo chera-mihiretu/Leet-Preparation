@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE OCT 17 
+- ## DAILY CHALLENGE
+- [Maximum Swap](Maximum_Swap.py)
 ## DATE OCT 12
 ## DAILY CHALLENGE
 - [Divide Intervals Into Minimum Number of Groups](Divide_Intervals_Into_Minimum_Number_of_Groups.py)
