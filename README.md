@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE OCT 15 
+## FAILY CHALLENGE
+## [Turn all black into white]()
 ## DATE OCT 17 
 - ## DAILY CHALLENGE
 - [Maximum Swap](Maximum_Swap.py)
