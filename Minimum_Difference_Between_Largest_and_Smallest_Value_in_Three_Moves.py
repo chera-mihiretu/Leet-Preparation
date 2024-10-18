@@ -78,3 +78,4 @@ class Solution:
         for i in range(4):
             answer = min(answer, four_large[i] - four_small[3 - i])
         return answer
+    
