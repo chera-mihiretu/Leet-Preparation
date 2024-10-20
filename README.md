@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE OCT 20 
+- ## DAILY CHALLENGE
+- [Parsing a Boolean Expression ](Parsing_a_Boolean_Expression.py)
 ## DATE OCT 15 
 ## FAILY CHALLENGE
 ## [Turn all black into white]()
