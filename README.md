@@ -2,6 +2,8 @@
 ## DATE OCT 20 
 - ## DAILY CHALLENGE
 - [Parsing a Boolean Expression ](Parsing_a_Boolean_Expression.py)
+- ## DAILLY PRACTICE 
+- [Kth Smallest Element in Sorted Matrix](Kth_Smallest_Element_in_Sorted_Matrix.py)
 ## DATE OCT 15 
 ## FAILY CHALLENGE
 ## [Turn all black into white]()
