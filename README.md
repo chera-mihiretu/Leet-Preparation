@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE OCT 21 
+- ## DAILY CHALLENGE 
+- [Unique Maximum Split](Unique_Maximum_Split.py)
 ## DATE OCT 20 
 - ## DAILY CHALLENGE
 - [Parsing a Boolean Expression ](Parsing_a_Boolean_Expression.py)
