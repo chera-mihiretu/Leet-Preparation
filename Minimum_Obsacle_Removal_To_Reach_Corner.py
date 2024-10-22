@@ -1,5 +1,5 @@
 from typing import *
-
+from heapq import *
 class Solution:
     def minimumObstacles(self, grid: List[List[int]]) -> int:
         N = len(grid)

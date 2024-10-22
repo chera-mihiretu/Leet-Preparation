@@ -1,4 +1,11 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE OCT 22 
+- ## DAILY CHALLENGE
+- [Kth Largest Sum in Binary Tree](Kth_Largest_Sum_in_Binary_Tree.py)
+
+- ## DIJKSTRA ALGOROTHM
+- [Minimum Obstacle Removal To Reach Corner](Minimum_Obsacle_Removal_To_Reach_Corner.py)
+
 ## DATE OCT 21 
 - ## DAILY CHALLENGE 
 - [Unique Maximum Split](Unique_Maximum_Split.py)
