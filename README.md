@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE OCT 23
+- ## DAILY CHALLENGE
+- [Cousins in Binary Tree](Cousins_in_Binary_Tree.py)
 ## DATE OCT 22 
 - ## DAILY CHALLENGE
 - [Kth Largest Sum in Binary Tree](Kth_Largest_Sum_in_Binary_Tree.py)
