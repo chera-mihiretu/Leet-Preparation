@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE OCT 28 
+- ## DAILY CHALLENGE 
+- [Longest Square Streak in Array](Longest_Square_Streak_in_Array.py)
 ## DATE OCT 23
 - ## DAILY CHALLENGE
 - [Cousins in Binary Tree](Cousins_in_Binary_Tree.py)
