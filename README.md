@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE OCT 29
+- ## DAILY CHALLENGE
+- [Maximum moves in grid](Maximum_Moves_in_Grid.py)
 ## DATE OCT 28 
 - ## DAILY CHALLENGE 
 - [Longest Square Streak in Array](Longest_Square_Streak_in_Array.py)
