@@ -7,20 +7,9 @@ def solution():
 
     grid = [[0 for i in range(m)] for i in range(n)]
 
-    for i in range(n):
-        for j in range(m):
-            current = 0
-            if i % 2 == 0:
-                if j % 2 == 0:
-                    current = 1
-            if i % 2 != 0:
-                if j % 2 != 0:
-                    current = 1
-            grid[i][j] = current
+    grid[0][0] = 1
 
-                
-    for row in grid:
-        print(* row)
+        
 
 
     

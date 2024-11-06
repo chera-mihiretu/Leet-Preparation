@@ -5,14 +5,18 @@ input = lambda: stdin.readline().strip()
 def solution():
     n,m  = [int(i) for i in input().split()]
     answer = [0 for i in range(n)]
-    for _ in range(m):
-        li, ri , xi = [int(i) for i in input().split()]
+    pref = [0 for i in range(n)]
 
-        if xi == ri:
-            answer[li - 1] = xi
-        if xi == li:
-            answer[ri - 1] = xi
-    print(*answer)
+    query = []
+    for i in range(m):
+        query.append([int(i) for i in input().split()])
+
+    for i in range(m - 1, -1, -1):
+        fr, to, winer = query[i]
+
+        
+
+
 
 # run the code
 if __name__ == '__main__':
