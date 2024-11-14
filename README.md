@@ -1,4 +1,9 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE NOV 14
+- ## DAILY CHALLENGE 
+- [Minimized Maximum of Product Distributed to Any Store](Minimized_Maximum
+_of_Product_Distributed_to_Any_
+Store.cpp)
 ## DATE NOV 
 ## DAILY CHALLENGE WITH C++
 - ## [Find if Array Can Be Sorted]()
