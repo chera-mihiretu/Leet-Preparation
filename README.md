@@ -1,9 +1,9 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE NOC 15
+- ## [Shortest Subarray to be Removed to Make Array Sorted](Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted.py)
 ## DATE NOV 14
 - ## DAILY CHALLENGE 
-- [Minimized Maximum of Product Distributed to Any Store](Minimized_Maximum
-_of_Product_Distributed_to_Any_
-Store.cpp)
+- ## [Minimized Maximum of Product Distributed to Any Storepyt](Minimized_Maximum_of_Product_Distributed_to_Any_Store.cpp)
 ## DATE NOV 
 ## DAILY CHALLENGE WITH C++
 - ## [Find if Array Can Be Sorted]()
