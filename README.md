@@ -2,6 +2,9 @@
 ## DATE NOV 17 
 ## DAILY CHALLENGE
 - ## [Shortest Subarray With sum atleast k](Shortest_Subarray_With_sum_atleast_k.py)
+
+## DAILY PRACTICE 
+- ## [Maximum XOR After Operation](Maximum_XOR_After_Operation.cpp)
 ## DATE NOC 15
 - ## [Shortest Subarray to be Removed to Make Array Sorted](Shortest_Subarray_to_be_Removed_to_Make_Array_Sorted.py)
 ## DATE NOV 14
