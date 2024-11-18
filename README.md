@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE NOC 18 
+## DAILY CHALLENGE
+- [Deffuse The Bomb](Defuse_The_Bomb.cpp)
 ## DATE NOV 17 
 ## DAILY CHALLENGE
 - ## [Shortest Subarray With sum atleast k](Shortest_Subarray_With_sum_atleast_k.py)
