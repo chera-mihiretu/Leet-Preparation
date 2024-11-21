@@ -1,5 +1,8 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
-## DATE NOC 18 
+## DATE NOV 121
+## DAILY CHALLENGE
+- [Count Unguarded cell in the Grid](Count_Unguarded_Cell_in_Grid.cpp)
+## DATE NOV 18 
 ## DAILY CHALLENGE
 - [Deffuse The Bomb](Defuse_The_Bomb.cpp)
 ## DATE NOV 17 
