@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE NOV 24
+## DAILY CHALLENGE
+- [Maximum Matrix Sum](Maximum_Matrix_Sum.py)
 ## DATE NOV 23 
 ## DAILY CHALLENGE
 - [Rotate The Box](Rotate_The_Box.py)
