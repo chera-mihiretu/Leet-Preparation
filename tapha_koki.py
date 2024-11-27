@@ -6,7 +6,7 @@ aa = lambda x,y: x + y
 
 answer = []
 def recursion(used, total, cur):
-	print(total)
+	
 	if used == 3: 
 		if total == 6:
 			return True
