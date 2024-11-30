@@ -1,4 +1,8 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE NOV 30
+## DAILY PRACTICE 
+- [Trapping Rain Water](Trapping_Rain_Water.py)
+- [Suduko Solver](Suduko_Solver.py)
 ## DATE NOV 28
 ## DAILY CHALLENGE
 - [Minimum Array End](Minimum_Array_End.py)
