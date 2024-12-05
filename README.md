@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE DEC 5 
+- [Move Pieces to Obtain a String](Move_Pieces_to_Obtain_a_String.py)
+
 ## DATE NOV 30
 ## DAILY PRACTICE 
 - [Trapping Rain Water](Trapping_Rain_Water.py)
