@@ -1,4 +1,6 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE DEC 6 
+- [Maximum Number of Integers to Choose From a Range I](Maximum_Number_of_Integers_to_Choose_From_a_Range_I.py)
 ## DATE DEC 5 
 - [Move Pieces to Obtain a String](Move_Pieces_to_Obtain_a_String.py)
 
