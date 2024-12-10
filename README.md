@@ -1,5 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
 ## DATE DEC 6
+## DAILY CHALLENGE 
+- [Find Longest Special Substring That Occurs Thrice I](Find_Longest_Special_Substring_That_Occurs_Thrice_I.py)
 - [Find K-th smallest Pair Distance](Find_K-th_Smallest_Pair_Distance.py)
 ## DATE DEC 6 
 - [Maximum Number of Integers to Choose From a Range I](Maximum_Number_of_Integers_to_Choose_From_a_Range_I.py)
