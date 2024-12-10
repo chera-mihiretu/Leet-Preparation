@@ -1,4 +1,6 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE DEC 6
+- [Find K-th smallest Pair Distance](Find_K-th_Smallest_Pair_Distance.py)
 ## DATE DEC 6 
 - [Maximum Number of Integers to Choose From a Range I](Maximum_Number_of_Integers_to_Choose_From_a_Range_I.py)
 ## DATE DEC 5 
