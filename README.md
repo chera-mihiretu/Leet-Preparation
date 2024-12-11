@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE DEC 11
+## DAILY PRACTICE 
+ - [Invalid Transaction](Invalid_Transaction.py)
 ## DATE DEC 6
 ## DAILY CHALLENGE 
 - [Find Longest Special Substring That Occurs Thrice I](Find_Longest_Special_Substring_That_Occurs_Thrice_I.py)
