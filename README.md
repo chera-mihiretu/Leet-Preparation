@@ -1,4 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
+## DATE DEC 12
+## DAILY CHALLANGE
+- []() 
 ## DATE DEC 11
 ## DAILY PRACTICE 
  - [Invalid Transaction](Invalid_Transaction.py)
