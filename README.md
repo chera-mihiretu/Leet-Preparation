@@ -1,7 +1,7 @@
 # PROGRESS OF LEETCODE FOR PERAPARATION OF INTERNAL INTERVIEW
-## DATE DEC 12
-## DAILY CHALLANGE
-- []() 
+## DATE JAN 4
+## DAILY CHALLENGE  
+- [Unique Length-3 Palindrome Subsequence](Unique_Length-3_Palindrome_Subsequence.cpp)
 ## DATE DEC 11
 ## DAILY PRACTICE 
  - [Invalid Transaction](Invalid_Transaction.py)
