@@ -1,5 +1,5 @@
 from typing import *
-
+from heapq import *
 class Solution:
     def minOperations(self, nums: List[int], k: int) -> int:
         heap = nums[::]
