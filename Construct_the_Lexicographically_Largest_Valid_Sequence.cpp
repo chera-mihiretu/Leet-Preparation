@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-
+using namespace std;
 class Solution {
 public:
     void solve(int idx, int &N, vector<bool> &vis, int &n, bool &found, vector<int> &ans) {
